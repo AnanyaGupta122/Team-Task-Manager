@@ -106,13 +106,24 @@ Member:
 * View assigned tasks
 * Update task status
 
+8. Deployment:
+The application is deployed using Render. The backend and frontend are both hosted on Render, and the application is fully accessible via the live URL.
 
-8. FUTURE IMPROVEMENTS
+Live Application URL:
+https://team-task-manager-4hm3.onrender.com
+
+GitHub Repository:
+https://github.com/AnanyaGupta122/Team-Task-Manager
+
+
+9. FUTURE IMPROVEMENTS
 * Email notifications
 * File attachments in tasks
 * Real-time updates using Socket.io
 * Improved UI/UX
 
 
-9. CONCLUSION
+10. CONCLUSION
 This project demonstrates how a full-stack application works using modern technologies. It covers authentication, API development, database handling, and frontend integration.
+
+
